@@ -1,0 +1,1 @@
+Fonction lecture de fichier : prend en entrée une suite de chiffres (le sudok partiel) et construit la grille.
